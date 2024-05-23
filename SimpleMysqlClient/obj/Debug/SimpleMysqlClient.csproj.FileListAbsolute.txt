@@ -1,0 +1,16 @@
+C:\Users\arsenij\Desktop\SimpleMysqlClient\SimpleMysqlClient\bin\Debug\SimpleMysqlClient.exe.config
+C:\Users\arsenij\Desktop\SimpleMysqlClient\SimpleMysqlClient\bin\Debug\SimpleMysqlClient.exe
+C:\Users\arsenij\Desktop\SimpleMysqlClient\SimpleMysqlClient\bin\Debug\SimpleMysqlClient.pdb
+C:\Users\arsenij\Desktop\SimpleMysqlClient\SimpleMysqlClient\bin\Debug\Google.Protobuf.dll
+C:\Users\arsenij\Desktop\SimpleMysqlClient\SimpleMysqlClient\bin\Debug\MySql.Data.dll
+C:\Users\arsenij\Desktop\SimpleMysqlClient\SimpleMysqlClient\bin\Debug\Google.Protobuf.xml
+C:\Users\arsenij\Desktop\SimpleMysqlClient\SimpleMysqlClient\bin\Debug\MySql.Data.xml
+C:\Users\arsenij\Desktop\SimpleMysqlClient\SimpleMysqlClient\obj\Debug\SimpleMysqlClient.csproj.AssemblyReference.cache
+C:\Users\arsenij\Desktop\SimpleMysqlClient\SimpleMysqlClient\obj\Debug\SimpleMysqlClient.LoginScreen.resources
+C:\Users\arsenij\Desktop\SimpleMysqlClient\SimpleMysqlClient\obj\Debug\SimpleMysqlClient.MySQLClient.resources
+C:\Users\arsenij\Desktop\SimpleMysqlClient\SimpleMysqlClient\obj\Debug\SimpleMysqlClient.Properties.Resources.resources
+C:\Users\arsenij\Desktop\SimpleMysqlClient\SimpleMysqlClient\obj\Debug\SimpleMysqlClient.csproj.GenerateResource.cache
+C:\Users\arsenij\Desktop\SimpleMysqlClient\SimpleMysqlClient\obj\Debug\SimpleMysqlClient.csproj.CoreCompileInputs.cache
+C:\Users\arsenij\Desktop\SimpleMysqlClient\SimpleMysqlClient\obj\Debug\SimpleMysqlClient.csproj.CopyComplete
+C:\Users\arsenij\Desktop\SimpleMysqlClient\SimpleMysqlClient\obj\Debug\SimpleMysqlClient.exe
+C:\Users\arsenij\Desktop\SimpleMysqlClient\SimpleMysqlClient\obj\Debug\SimpleMysqlClient.pdb
