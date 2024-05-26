@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -22,6 +23,8 @@ namespace SimpleMysqlClient
             tbDbHost.Text = "localhost";
             tbDbPort.Text = "3306";
             tbDbUser.Text = "root";
+            tbDbPass.Text = "";
+            tbDbBase.Text = "testDB";
         }
 
         private void btnConnect_Click(object sender, EventArgs e)
@@ -46,7 +49,18 @@ namespace SimpleMysqlClient
             catch(Exception exc)
             {
                 MessageBox.Show($"Исключение при попытке подключиться к БД: {exc.Message}");
+                Console.WriteLine($"Исключение при попытке подключиться к БД: {exc.Message}");
             }
+        }
+
+        private void tbDbPort_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
